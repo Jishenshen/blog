@@ -67,3 +67,16 @@ const user1 = new userCreator("will",10)
       "@vue/cli-service/portfinder": "1.0.21"
     }
     ```
+2. Lifestyle hooks:
+   <li>'beforeCreate'</li>
+'created'
+'beforeMount'
+'mounted'
+'beforeUpdate'
+'updated'
+'beforeDestroy'
+'destroyed'
+'activated'
+'deactivated'
+'errorCaptured'
+
