@@ -1,51 +1,50 @@
-# [Week 1] 23 March 2020
+# \[Week 1\] 23 March 2020
 
 ## Basic Things You Need Know About Visualisation by D3.js
 
 1. Coordinate System
-   
+
    SVG elements aren't governed by a CSS box model like HTML elements are. You can view it as the absolute positioning in CSS. The origin point is on the top left. Any transformations and manipulating should based on the coordinate system.
 
-   ![Coordinate_system](assets/jin/coordinate_system.jpg)[0.5]
+   ![Coordinate\_system](.gitbook/assets/coordinate_system.jpg)\[0.5\]
 
 2. Basic Shapes in SVG
-   
-   * __```<rect>```__
-  
-    ```html
-    <svg width="50" height="50">
+   * **`<rect>`**
+
+     ```markup
+     <svg width="50" height="50">
         <rect x="0" y="0" width="50" height="50" fill="green" />
-    </svg>
-    ```
+     </svg>
+     ```
 
-   * __```<circle>```__
-  
-    ```html
-    <svg width="50" height="50">
+   * **`<circle>`**
+
+     ```markup
+     <svg width="50" height="50">
         <circle cx="25" cy="25" r="25" fill="purple" />
-    </svg>
-    ```
+     </svg>
+     ```
 
-   * __```<ellipse>```__
-  
-    ```html
-    <svg width="50" height="50">
+   * **`<ellipse>`**
+
+     ```markup
+     <svg width="50" height="50">
         <ellipse cx="25" cy="25" rx="15" ry="10" fill="red" />
-    </svg>
-    ```
+     </svg>
+     ```
 
-   * __```<line>```__
-  
-    ```html
-    <svg width="50" height="50">
+   * **`<line>`**
+
+     ```markup
+     <svg width="50" height="50">
         <line x1="5" y1="5" x2="40" y2="40" stroke="gray" stroke-width="5"  />
-    </svg>
-    ```
+     </svg>
+     ```
 
-   * __```<polyline>```__
-  
-    ```html
-    <svg width="50" height="50">
+   * **`<polyline>`**
+
+     ```markup
+     <svg width="50" height="50">
         <polyline fill="none" stroke="blue" stroke-width="2"
             points="05,30
                     15,30
@@ -53,28 +52,23 @@
                     25,20
                     25,10
                     35,10" />
-    </svg>
-    ```
+     </svg>
+     ```
 
-   * __```<polygon>```__
-  
-    ```html
-    <svg width="50" height="50">
+   * **`<polygon>`**
+
+     ```markup
+     <svg width="50" height="50">
           <polygon fill="yellow" stroke="blue" stroke-width="2"
             points="05,30
                     15,10
                     25,30" />
-    </svg>
-    ```
-
+     </svg>
+     ```
 3. Basic Attributes in SVG
-
-   * __```fill='#fff'```__
-  
-   * __```stroke='#f00'```__
-  
-   * __```stroke-width="5"```__
-
+   * **`fill='#fff'`**
+   * **`stroke='#f00'`**
+   * **`stroke-width="5"`**
 4. Basic step for Create a visualisation
 
    ```javascript
@@ -97,7 +91,7 @@
     // Layout configuration: width and height
     let width = 200;
     let height = 200;
- 
+
     // Svg container
     const svgContainer = d3.select(el).append("svg")
                 .attr("width", width + margin.left + margin.right)
@@ -116,22 +110,20 @@
 
 ## Shen -- Introduction to Data Visualization with d3.js V4 -- API Reference
 
-1. Selection and Data<br>
-   SVG: the coordinate system for X and Y:<br>
-    X: Left to right, it goes zero and increases for x;<br>
-    Y: It goes zero and increases as it goes down the screen;<br>
+1. Selection and Data  
+    SVG: the coordinate system for X and Y:  
+    X: Left to right, it goes zero and increases for x;  
+    Y: It goes zero and increases as it goes down the screen;  
 
-        ```javascript
-        
+
+   ```javascript
         // Basic example to understand coordinate system
         // d means data
         var rect = d3.selectAll('rect')
            .data(data)
            .attr('x',(d,i)=>i * rectWidth)
            .attr('y',d =>height -d )
-          
-        ```
+   ```
 
 2. Enter-Append
-   
 
