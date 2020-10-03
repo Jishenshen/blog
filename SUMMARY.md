@@ -5,5 +5,5 @@
 
 ## 微信
 
-* [微信 QQ 传文件太过反人类](wei-xin/wei-xin-qq-chuan-wen-jian-tai-guo-fan-ren-lei.md)
+* [传文件问题](wei-xin/wei-xin-qq-chuan-wen-jian-tai-guo-fan-ren-lei.md)
 
