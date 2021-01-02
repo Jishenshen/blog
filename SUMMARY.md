@@ -7,3 +7,8 @@
 
 * [传文件问题](wei-xin/wei-xin-qq-chuan-wen-jian-tai-guo-fan-ren-lei.md)
 
+## 美团—清华产品课笔记
+
+* [读书笔记](mei-tuan-qing-hua-chan-pin-ke-bi-ji/du-shu-bi-ji.md)
+* [External resources](mei-tuan-qing-hua-chan-pin-ke-bi-ji/external-resources.md)
+
