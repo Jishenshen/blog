@@ -9,6 +9,10 @@
 
 ## 美团—清华产品课笔记
 
-* [读书笔记](mei-tuan-qing-hua-chan-pin-ke-bi-ji/du-shu-bi-ji.md)
+* [马太效应](mei-tuan-qing-hua-chan-pin-ke-bi-ji/du-shu-bi-ji.md)
 * [External resources](mei-tuan-qing-hua-chan-pin-ke-bi-ji/external-resources.md)
+
+## 面试问题总结
+
+* [General Question](mian-shi-wen-ti-zong-jie/general-question.md)
 
