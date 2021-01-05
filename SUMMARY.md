@@ -11,6 +11,7 @@
 
 * [规模效应与马太效应](mei-tuan-qing-hua-chan-pin-ke-bi-ji/du-shu-bi-ji.md)
 * [战略](mei-tuan-qing-hua-chan-pin-ke-bi-ji/zhan-lve.md)
+* [存量增量 & 高低频 & 入场时机](mei-tuan-qing-hua-chan-pin-ke-bi-ji/cun-liang-zeng-liang-gao-di-pin-ru-chang-shi-ji.md)
 * [External resources](mei-tuan-qing-hua-chan-pin-ke-bi-ji/external-resources.md)
 
 ## 面试问题总结
