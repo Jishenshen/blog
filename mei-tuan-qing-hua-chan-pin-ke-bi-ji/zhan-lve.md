@@ -33,3 +33,25 @@ PS：大行业小企业的例子也是很多的，比如说中国的餐饮行业
 
 _**为什么？因为议价能力高**_
 
+_\*\*\*\*_
+
+### 战略的多个理论
+
+#### 1. PFM
+
+PMF \(Product Market Fit\)：为一个市场匹配一个产品
+
+#### 2. STP
+
+Segmenting, Targeting, Positioning: S是对市场做划分，T是在划分完的市场里选一块作为目标市场，P是产品和市场的链接（个人理解为解决方案）
+
+**Segmenting**: 选择正确的坐标系来划分市场。而坐标系的划分有多个维度（个人理解，可以将Bio information作为基本的划分纬度，也是常用的划分纬度，如age, hometown, family background, income, consuming behavior, marriage, sex, education.....）
+
+要求：要用不同的坐标轴描述不同的市场，但是如果把坐标轴选得过多市场会被划分地过细而无法分析
+
+例子：零售行业的划分为度要素——收入&时间冗余度（like woman, married well or divorced well）
+
+
+
+_\*\*\*\*_
+
