@@ -35,21 +35,49 @@ _**为什么？因为议价能力高**_
 
 _\*\*\*\*_
 
-### 战略的多个理论
+## 战略的多个理论
 
-#### 1. PFM
+### 1. PFM
 
 PMF \(Product Market Fit\)：为一个市场匹配一个产品
 
-#### 2. STP
+### 2. STP
 
 Segmenting, Targeting, Positioning: S是对市场做划分，T是在划分完的市场里选一块作为目标市场，P是产品和市场的链接（个人理解为解决方案）
 
-**Segmenting**: 选择正确的坐标系来划分市场。而坐标系的划分有多个维度（个人理解，可以将Bio information作为基本的划分纬度，也是常用的划分纬度，如age, hometown, family background, income, consuming behavior, marriage, sex, education.....）
+**Segmenting**: 选择正确的坐标系来划分市场。而坐标系的划分有多个维度（_个人理解，可以将Bio information作为基本的划分纬度，也是常用的划分纬度，如age, hometown, family background, income, consuming behavior, marriage, sex, education....._）
 
 要求：要用不同的坐标轴描述不同的市场，但是如果把坐标轴选得过多市场会被划分地过细而无法分析
 
-例子：零售行业的划分为度要素——收入&时间冗余度（like woman, married well or divorced well）
+例子：零售行业的划分为度要素——收入&时间冗余度（like woman, married well or divorced well，即女的+有钱+有时间），其实这里有_**分析用户画像的思维**_
+
+早期用户类型：Innovator, Early adopter, early majority （_分析好或认真收集这三类用户的使用数据_），宁可让1000个人love你的产品，也不要让10000个人like你的产品，因为早期用户在产品很粗糙时就愿意用，要优先匹配这部分用户的需求，根据STP选择ROI最高的，当资金，组织能力，研发能力都跟上的时候再拓展新的人群，提供更好的产品
+
+划分成功的要点：划分的细且准，or一刀切（比如钉钉和微信的竞争）
+
+**Targeting**：_个人理解—在已有市场空间的情况下考虑场景的要素_
+
+例子：校内网的切入点是校园市场，但目标市场还是所有的人群
+
+选择T的纬度：市场大小 + 规模效应 + 速度
+
+Positioning（_个人理解：解决方案_）
+
+### 3. 4P理论
+
+Product == Price之间的关系类似供给和需求的关系；在规模化生产的行业里，需求比供给重要。定价影响需求，而product是供给
+
+在这里需要注意的是，做O2O需要balance  user experience & cost，需要考虑补贴是为了让消费者体验更好的消费模式，还是补贴扭曲了产品或服务定价本身
+
+案例：比如饿了么推出过的会员配送服务，用户在有补贴的情况下选择下单，补贴取消后还是依旧比较美团和饿了么上谁更便宜，因此补贴并没有带来更好的模式，当补贴消失，用户也会流失
+
+_个人思考：为什么滴滴在最开始的时候疯狂补贴？是不是因为打车市场最后一定会只剩一到两家，或者说只剩一家，因为用户不可能同时在两个平台上打车，所以在初期用低价策略获得马太效应，形成规模优势，以价格战打倒其他竞争者，此时，即使补贴消失，也没有其他平台可以供用户选择了。_
+
+Place涉及到STP理论里用什么划分市场（最好的情况是用户在地域上的集中度很高）
+
+Powerful的模式：将4P中的某一个P挤压为0而收取另一个P的费用（比如沃尔玛no product，earn place；淘宝no place earn promotion）
+
+### 4. 分层经营
 
 
 
