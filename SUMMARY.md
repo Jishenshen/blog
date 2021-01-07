@@ -10,8 +10,9 @@
 ## 美团—清华产品课笔记
 
 * [规模效应与马太效应](mei-tuan-qing-hua-chan-pin-ke-bi-ji/du-shu-bi-ji.md)
-* [战略](mei-tuan-qing-hua-chan-pin-ke-bi-ji/zhan-lve.md)
 * [存量增量 & 高低频 & 入场时机](mei-tuan-qing-hua-chan-pin-ke-bi-ji/cun-liang-zeng-liang-gao-di-pin-ru-chang-shi-ji.md)
+* [战略](mei-tuan-qing-hua-chan-pin-ke-bi-ji/zhan-lve.md)
+* [需求](mei-tuan-qing-hua-chan-pin-ke-bi-ji/xu-qiu.md)
 
 ## 面试问题总结
 
