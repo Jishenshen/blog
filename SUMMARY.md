@@ -16,7 +16,7 @@
 
 ## 幕后产品 - 打造突破式产品思维 <a id="mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1"></a>
 
-* [如何全面深入了解用户](mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1/untitled.md)
+* [全面深入了解用户](mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1/untitled.md)
 
 ## 面试问题总结
 
