@@ -18,6 +18,7 @@
 
 * [全面深入了解用户](mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1/untitled.md)
 * [需求分析方法论](mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1/xu-qiu-fen-xi-fang-fa-lun.md)
+* [用户增长](mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1/yong-hu-zeng-chang.md)
 * [沟通技巧](mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1/gou-tong-ji-qiao.md)
 
 ## 面试问题总结
