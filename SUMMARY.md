@@ -22,6 +22,7 @@
 * [沟通技巧](mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1/gou-tong-ji-qiao.md)
 * [产品能力综述](mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1/chan-pin-neng-li-zong-shu.md)
 * [产品定位寻找](mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1/chan-pin-ding-wei-xun-zhao.md)
+* [好的思维方式](mu-hou-chan-pin-da-zao-tu-po-shi-chan-pin-si-wei-1/hao-de-si-wei-fang-shi.md)
 
 ## 面试问题总结
 
